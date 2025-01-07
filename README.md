@@ -11,7 +11,9 @@ Trade statistics (KAST, trade kills, traded deaths) <br/>
 
 Files were obtained through FACEIT's API, and are replays from season 51 of their advanced division in the region of North America. 
 Scouter makes use of LaihoE's demoparser tool (found at https://github.com/LaihoE/demoparser) to parse and compile Counter-Strike 2 player statistics from CS2 .dem files. 
-This project was done in fulfillment of capstone project requirements for my MS in Business Analytics at Northwood University (MGT 683). Write-up featured [here](https://drive.google.com/file/d/1ToyujwOU4a1vT85PSfO8bE3BSYIg8DAo/view?usp=drive_link).
+This project was done in fulfillment of capstone project requirements for my MS in Business Analytics at Northwood University (MGT 683). <br/>
+
+For a detailed report, read [here](https://drive.google.com/file/d/1ToyujwOU4a1vT85PSfO8bE3BSYIg8DAo/view?usp=drive_link).
 
 
 Future plans: <br/>
